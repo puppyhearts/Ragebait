@@ -1,0 +1,36 @@
+{
+    "video_id": "12345",
+    "title": "Running with dogs in the snow",
+    "creator":"ksi",
+    "music": {
+        "name":"Thick of It",
+        "artist":"",
+        "bpm":"",
+        "genre":"",
+        "trend":""   
+    },
+    "metadata": {
+      "platform": "YouTube",
+      "upload_date": "2024-10-01",
+      "duration": "30s",
+      "views": 100000,
+      "likes": 5000,
+      "comments":10
+    },
+    "genre":"pets",
+    "transcription": "No speech, just background music.",
+    "visual_description": "A person in a red jacket is running in a snowy field with two dogs following closely behind. There is a large mountain range in the background.",
+    "sociolinguistic_analysis": {
+      "gesture_analysis": "The runner frequently looks back at the dogs, indicating a playful chase.",
+      "discourse_genre": "Humorous, light-hearted outdoor activity",
+      "content_analysis": "Video designed to showcase the joy of outdoor activities with pets.",
+      "semiotics_pragmatic_elements":"dog, snow, winter",
+      "tagged":""
+    },
+    "labels": {
+        "tagged_words":"",
+        "manual": true,
+        "ragebait": false,
+        "emotion": "Happy, playful"
+    }
+  }
