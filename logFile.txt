@@ -1,0 +1,1512 @@
+OG GLOVE Cosine similarity evaluation
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+Precision: 0.59
+Recall: 0.08
+F1-Score: 0.14
+Accuracy: 0.48
+Retrofitted GLOVE Cosine similarity evaluation
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+Precision: 0.79
+Recall: 0.77
+F1-Score: 0.78
+Accuracy: 0.76
+Retrofitted GLOVE Cosine similarity evaluation
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: ragebait
+File: 15400_description.txt | Predicted: ragebait | True: ragebait
+File: 15400_description.txt | Predicted: not ragebait | True: not ragebait
+Precision: 0.59
+Recall: 0.63
+F1-Score: 0.61
+Accuracy: 0.56
